@@ -36,7 +36,7 @@ The project uses three main CSV files:
 
 ```bash
 git clone https://github.com/RanaRomdhane/neo4j-lab.git
-cd airlines-routes-neo4j
+cd neo4j-lab
 ```
 - Set up the database
 
