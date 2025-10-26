@@ -127,7 +127,7 @@ neo4j-lab/
 - Aviation industry data providers
 
 ## 🛠️ Technical Details
-Database: Neo4j Graph Database
-Query Language: Cypher
-Data Format: CSV
-Key Features: Path finding, geographic analysis, network analysis
+- Database: Neo4j Graph Database
+- Query Language: Cypher
+- Data Format: CSV
+- Key Features: Path finding, geographic analysis, network analysis
